@@ -1,0 +1,16 @@
+ul li{
+    display: inline;
+    margin-right: 20px;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+ul li a{
+    text-decoration: none;
+    color:black;
+}
+/* .blog:hover{
+    background-color: red;
+} */
+ul li:hover{
+    background-color: lightgray;
+}
